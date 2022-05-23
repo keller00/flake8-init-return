@@ -1,3 +1,7 @@
+[![Build and Test](https://github.com/keller00/flake8-init-return/actions/workflows/test.yml/badge.svg)](https://github.com/keller00/flake8-init-return/actions/workflows/test.yml)
+[![PyPi](https://img.shields.io/pypi/v/flake8-init-return.svg)](https://pypi.python.org/pypi/flake8-init-return/)
+[![codecov](https://codecov.io/gh/keller00/flake8-init-return/branch/main/graph/badge.svg)](https://codecov.io/gh/keller00/flake8-init-return)
+
 flake8-init-return
 ================
 
