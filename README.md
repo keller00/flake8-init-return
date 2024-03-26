@@ -14,9 +14,9 @@ flake8 plugin which forbids not having a return type on a class' `__init__` func
 
 ## flake8 codes
 
-| Code   | Description                         |
-|--------|-------------------------------------|
-| FIR100 | missing return value for initalizer |
+| Code   | Description                          |
+|--------|--------------------------------------|
+| FIR100 | missing return value for initializer |
 
 ## rationale
 
