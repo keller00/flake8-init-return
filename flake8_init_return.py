@@ -5,7 +5,7 @@ import importlib.metadata
 from typing import Any
 from typing import Generator
 
-MSG = 'FIR100 missing return value for initalizer'
+MSG = 'FIR100 missing return value for initializer'
 
 
 class Visitor(ast.NodeVisitor):
