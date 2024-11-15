@@ -29,6 +29,6 @@ jobs:
         env:
           PYTEST_ADDOPTS: --color=yes
       - name: Upload coverage reports to Codecov with GitHub Action
-        uses: codecov/codecov-action@v4
+        uses: codecov/codecov-action@v5
         with:
           files: .tox/coverage.xml
